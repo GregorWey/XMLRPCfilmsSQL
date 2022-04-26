@@ -1,0 +1,3 @@
+COMO EXECUTAR
+
+Foi utilizado o banco de dados MySQL, o arquivo conex.py contem as informações como senha,user e a database com nome Filmes que precisa ser criada manualmente.O arquivo create.sql cria as tabelas e insertSQL.py insere resumo.txt no banco, após isto é possível executar update.sql no banco para retirar quebras de linhas, cxmlrpc.py é o cliente e sxmlrpc.py o servidor.
